@@ -8,6 +8,4 @@ Don't give up
 
 ## meme
 
-roses are red, violets are blue omaywa mou shendeiro
-
-NANI
+This line shouldn't be here
